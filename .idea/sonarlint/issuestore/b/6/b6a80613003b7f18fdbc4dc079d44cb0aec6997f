@@ -1,0 +1,3 @@
+
+ujavascript:S3776U"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(õ¦çûúÿÿÿÿ
+qjavascript:S1994"TThis loop's stop condition tests "currentDay, days" but the incrementer updates "i".(å¹‚½
